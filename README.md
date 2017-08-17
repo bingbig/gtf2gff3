@@ -2,7 +2,7 @@
 Convert gtf to gff3 for JBrowse
 
 ### Note
-1. Many attributes and features are remove
+1. Many attributes and features are removed
 2. "transcript" will be replaced by 'mRNA'
 
 #### About this
